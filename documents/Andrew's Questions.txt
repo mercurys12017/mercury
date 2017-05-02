@@ -1,0 +1,12 @@
+With Registration of Users:
+	* 6 months expiration is from last login or initial registration?
+	* Are reminders required to be sent to Users to login?
+	* How long is Users Data to be stored/archived for?
+	* Is a login reset for Users passwords required?
+	* When User lists interest/aptitudes, are they from a set of limited dropped down lists?
+	* How is it decided that an interest/aptitude relates to a specific industry area?
+	* System generated ID's are there an existing standard of the pattern, length etc?
+
+How are Users going to:
+	* Get access to this App?
+	* run this App on Mobile Devices/PCs?
